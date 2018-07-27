@@ -1,0 +1,24 @@
+body{
+	font-family: arial;
+	color: yellow;
+	size: 10px;
+	padding: 15px;
+	background-color: grey;
+}
+h2{
+	font-family: cursive;
+	color: red;
+}
+.heading{
+	color:orange;
+	font-family: Comic-sans MS;
+	font-size: 13px;
+}
+form
+{
+	width: 350px
+	border:20px color="black";
+	border-radius: 5px;
+	padding:10px;
+	text-align: left;
+}

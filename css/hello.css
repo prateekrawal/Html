@@ -1,0 +1,18 @@
+
+body {
+	background-image: src="image/bg.jpg";
+}
+table
+{
+	border-style: solid;
+	border-width: 2px;
+	color: red;
+	background-color: rgb(180,180,180);
+	border-radius: 1px;
+}
+h2{
+	color: blue;
+	font-size: 16px;
+	font-family: helvatica;
+	font-style: initial;
+}
